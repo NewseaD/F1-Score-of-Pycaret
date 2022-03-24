@@ -1,5 +1,5 @@
 # F1-Score-of-Pycaret
-some bugs in Pycaret,——the calculation of F1-Score/Pycaret的bug，主要是关于F1-Score的计算
+When do my graduate design, found some bugs in Pycaret,——the calculation of F1-Score. Maybe, the calculation of prec.,recall and F1-Score.
 
 ![image](https://user-images.githubusercontent.com/101257914/159960848-fe9f5bd5-d260-41d9-9613-1752c6effc04.png)
 
